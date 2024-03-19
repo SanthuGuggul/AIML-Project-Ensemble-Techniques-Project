@@ -6,6 +6,8 @@ on multiple variables to help the company in retaining their existing customers.
 building a machine learning workflow that will run autonomously with the CSV file and return the best-performing model.
 
 Skills & Tools Covered
+
+
 EDA
 Logistic regression
 Decision Trees
